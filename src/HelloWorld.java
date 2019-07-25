@@ -8,7 +8,7 @@ public class HelloWorld {
         String myString= "string";
         System.out.println(myString);
 
-        float myNumber = 3.14F;
+        double myNumber = 3.14;
         System.out.println(myNumber);
 
         int x = 5;
