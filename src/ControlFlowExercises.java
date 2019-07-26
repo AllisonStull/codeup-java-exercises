@@ -2,10 +2,10 @@ import java.util.Scanner;
 //#1 part a while
 //public class ControlFlowExercises {
 //    public static void main(String[] args) {
-//        System.out.println();
 //        int i = 5;
 //        while (i <= 15) {
-//            System.out.println(i);
+//            System.out.print(i);
+//              System.out.print(' ');
 //            i++;
 //
 //        }
@@ -90,3 +90,7 @@ import java.util.Scanner;
 //        fizzBUzz(100);
 //    }
 //    }
+
+
+//#3
+//#4
