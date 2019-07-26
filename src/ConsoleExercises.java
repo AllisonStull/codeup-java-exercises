@@ -26,8 +26,7 @@ public class ConsoleExercises {
 
 //        #3 and #43
         scanner.nextLine();
-        System.out.print("%nEnter a sentence: ");
-//        System.out.printf("%nEnter a sentence: "); why the f ask
+        System.out.printf("%nEnter a sentence: ");
         String userInput4 = scanner.nextLine();
         System.out.println(userInput4);
 
@@ -42,7 +41,7 @@ public class ConsoleExercises {
         double width = Double.valueOf(userInput5);
         System.out.println(width);
 
-        System.out.printf("what is the length of the classroom?: ");
+        System.out.println("what is the length of the classroom?: ");
         userInput5 =  scanner.nextLine();
         double length = Double.valueOf(userInput5);
 
